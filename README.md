@@ -1,5 +1,5 @@
-# Lista Sintetica das Unidades Federativas do Brasil
-Este README descreve um projeto em HTML e PHP que apresenta uma tabela com todos os estados do Brasil e suas respectivas informações.
+# Lista Sintética das Unidades Federativas do Brasil
+Projeto em HTML e PHP que apresenta uma tabela com todos os estados do Brasil e suas respectivas informações.
 
 # Descrição do Projeto
 O projeto consiste em:
